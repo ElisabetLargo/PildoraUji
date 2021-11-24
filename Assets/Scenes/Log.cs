@@ -6,6 +6,6 @@ public class Log : MonoBehaviour
 {
     private void Start()
     {
-        Debug.Log("First branch log");
+        Debug.Log("Im generating conflicts :D");
     }
 }

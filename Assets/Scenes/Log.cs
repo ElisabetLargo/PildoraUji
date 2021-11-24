@@ -1,11 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Log : MonoBehaviour
 {
     private void Start()
     {
         Debug.Log("Im generating conflicts :D");
+        Debug.Log("Second branch log");
     }
 }
